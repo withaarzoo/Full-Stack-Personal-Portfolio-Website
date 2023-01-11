@@ -31,7 +31,7 @@ If you want to deploy your website, you can use services like GitHub Pages or Ne
 - PHP
 
 ## Authors
-Your Name - [Aarzoo](https://twitter.com/Aarzoo75)
+Name - [Aarzoo](https://twitter.com/Aarzoo75)
 
 ##  Preview
 ![preview](https://user-images.githubusercontent.com/59678435/211750110-72828293-f1b2-40f2-963d-50c5f7d59ebf.png)
