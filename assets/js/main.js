@@ -7,5 +7,8 @@
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
 
 
+/*===== Custom Cursor =====*/
+
+
 /*===== SCROLL REVEAL ANIMATION =====*/
 
