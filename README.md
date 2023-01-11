@@ -12,6 +12,9 @@ This is a personal portfolio website built using HTML, CSS, JavaScript, and PHP.
 2. Open the index.html file in your browser to view the website
 3. To make changes, edit the files in the `css`, `js`, and `img` folders. If you want to change the content of the website, you can edit the `index.html` file.
 
+## Full Source Code
+The source code for this website is available for download at [codewithaarzoo.tk](https://codewithaarzoo.tk/). Feel free to use it as a starting point for your own personal portfolio website, or to learn more about implementing similar features.
+
 ## Working message submission through PHP and Gmail
 - The contact form uses PHP to handle the form submission and send the message to an email address using Gmail SMTP.
 - There is a `message.php` file in the root of the project, which you can use to configure the SMTP settings for your email account.
