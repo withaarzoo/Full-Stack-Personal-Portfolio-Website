@@ -1,5 +1,5 @@
 # Full-Stack - Personal Portfolio Website
-This is a personal portfolio website built using HTML, CSS, JavaScript, and PHP. The website features a clean and modern design, showcasing your projects and skills
+This is a personal portfolio website built using HTML, CSS, JavaScript, and PHP. The website features a clean and modern design, showcasing your projects and skills.
 
 ## Features
 - Responsive design for optimal viewing on different devices
